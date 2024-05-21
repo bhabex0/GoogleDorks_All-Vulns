@@ -4,12 +4,12 @@ SQL Injection {google dorks}
 
 inurl:".php?catid=" intext:"Warning: mysql_fetch_array()"    [most dangerous dork]
 
-view_items.php?id=
-home.php?cat=
-item_book.php?CAT=
-www/index.php?page=
-schule/termine.php?view=
-goods_detail.php?data=
+view_items.php?id=     <br>
+home.php?cat=           <br>
+item_book.php?CAT=            <br>
+www/index.php?page=           <br>
+schule/termine.php?view=         <br>
+goods_detail.php?data=         <br>
 storemanager/contents/item.php?page_code=
 view_items.php?id=
 customer/board.htm?mode=
